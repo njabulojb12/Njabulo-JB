@@ -1,12 +1,12 @@
 {
-    "name": "PRABATHMD(PMD)",
+    "name": "Njabulo JB(PMD)",
     "version": "2.1.4",
-    "description": "PRABATHMD(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
+    "description": "Njabulo JB(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
-        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd",
+        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-Njabulo JB",
         "stop": "pm2 stop wabot-prabathmd",
-        "restart": "pm2 restart wabot-prabathmd"
+        "restart": "pm2 restart wabot-Njabulo JB"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
